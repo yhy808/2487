@@ -5,7 +5,7 @@ dendrite tuft)
 
 from: Davison AP, Feng J and Brown D. (2000) A reduced compartmental model of
       the mitral cell for use in network models of the olfactory bulb.
-      Brain Research Bulletin 51(5): 393-399.
+      *Brain Research Bulletin* 51(5): 393-399.
 
 Run the model using the file mosinit.hoc after compiling the .mod files.
 
@@ -38,4 +38,4 @@ Changelog
  ---------
  2022-05: Updated MOD files to compile with the latest neuron releases where
           ion variables used as STATE can not be declared as GLOBAL.
-
+ 2024-10: Converted readme to markdown.
