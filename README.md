@@ -38,5 +38,5 @@ Changelog
  ---------
  2022-05: Updated MOD files to compile with the latest neuron releases where
           ion variables used as STATE can not be declared as GLOBAL.
-          
+          \
  2024-10: Converted readme to markdown.
